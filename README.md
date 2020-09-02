@@ -1,2 +1,1 @@
-# HelloWorld1
-IzborDvorane
+# HelloWorld
